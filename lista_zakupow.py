@@ -1,6 +1,6 @@
 lista={
     "piekarnia":["chleb","bułki","pączki", "ciasto"],
-    "warzywniak":["marchew","seler","rukola"]
+    "warzywniak":["marchew","seler","rukola","pomidor"]
 }
 i=0
 for sklep in lista.keys():
