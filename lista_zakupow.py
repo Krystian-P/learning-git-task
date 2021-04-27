@@ -1,5 +1,5 @@
 lista={
-    "piekarnia":["chleb","bułki","pączki"],
+    "piekarnia":["chleb","bułki","pączki", "ciasto"],
     "warzywniak":["marchew","seler","rukola"]
 }
 i=0
